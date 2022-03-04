@@ -15,9 +15,9 @@
       <li>What are the army numbers of both sides?</li>
       <li>What are the goals of Ukraine and Russia?</li>
       <li>Does this have potential of becoming a world war?</li>
-                   <li></li>
+                   <li>What land did Russia take from Ukraine?</li>
       <li></li>
       <li></li>
       <li></li>
     </ul>
-      <p> ok </p>
+      <p>  </p>
